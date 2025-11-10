@@ -4,4 +4,5 @@
 ## 24. POST Vs PUT
 ![alt text](image-96.png)
 ## 25. Put vs Patch
-Abc
+
+### Finish
